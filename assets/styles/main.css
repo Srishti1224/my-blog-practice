@@ -9,12 +9,4 @@
     color: #f39c12; /* Orange highlight on hover */
     text-decoration: underline;
   }
-/* Footer grid layout */
-.footer-widgets {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
-    gap: 20px;
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-    
+  
