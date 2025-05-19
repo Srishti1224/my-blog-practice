@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 header {
     margin-bottom: 20px;
+=======
+.subscribe-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .subscribe-btn:hover {
+    background-color: #0056b3;
+>>>>>>> f5f34b4a642a731fc0fd73f083bcb0257c6d4f5b
   }
   
